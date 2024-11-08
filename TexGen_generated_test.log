@@ -1,0 +1,19 @@
+Analysis initiated from SIMULIA established products
+Abaqus JOB TexGen_generated_test
+Abaqus Learning Edition 2023
+Begin Analysis Input File Processor
+5/2/2024 12:37:15 PM
+Run pre.exe
+5/2/2024 12:37:18 PM
+End Analysis Input File Processor
+Begin Abaqus/Standard Analysis
+5/2/2024 12:37:18 PM
+Run standard.exe
+5/2/2024 12:37:24 PM
+End Abaqus/Standard Analysis
+Begin SIM Wrap-up
+5/2/2024 12:37:24 PM
+Run SMASimUtility.exe
+5/2/2024 12:37:24 PM
+End SIM Wrap-up
+Abaqus JOB TexGen_generated_test COMPLETED
